@@ -9,6 +9,8 @@ You can use our api to make what you want to make on TikTok.
 
 ## Currently supported endpoints (當前支持的端點):
 
+- Register
+- Verify
 - Login
 - Follow
 - Unfollow
