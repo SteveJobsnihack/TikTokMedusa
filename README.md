@@ -18,6 +18,10 @@ You can use our api to make what you want to make on TikTok.
 - Unlike
 - Comment
 
+The scraping functionalities are available at https://scraptubes.de.
+
+抓取功能可在 https://scraptubes.de 獲得。
+
 ## Contact (接觸):
 
 - Telegram: https://t.me/SteveJobsnihack
