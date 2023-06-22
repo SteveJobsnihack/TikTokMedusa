@@ -17,6 +17,7 @@ You can use our api to make what you want to make on TikTok.
 - Like
 - Unlike
 - Comment
+- View
 
 The scraping functionalities are available at https://scraptubes.de.
 
